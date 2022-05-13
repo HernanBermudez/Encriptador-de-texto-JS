@@ -22,6 +22,7 @@ body {
   width: 30vw;
   margin: auto;
   color: white;
+  text-align: center;
 
 }
 
@@ -33,6 +34,7 @@ body {
   border-radius: 0.5em;
   width: 40vw;
   height: auto;
+  text-align: center;
 }
 
 .btn {
